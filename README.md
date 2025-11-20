@@ -5,9 +5,9 @@ I whipped this app up entirely in SwiftUI and Swift as a fun weekend project, an
 
 I hope this brings back some awesome retro vibes with your favorite text editor!
 
-**Feel free to tweak this as I’ve licensed it with MIT**
-
-*Heck, even open a pull request to contribute!*
+> **Feel free to tweak this as I’ve licensed it with MIT**
+> 
+> *Heck, even open a pull request to contribute!*
 
 # Screenshots
 
