@@ -1,4 +1,4 @@
-# SimpleText-Reborn
+# SimpleText is reborn!
 Guess what? The awesome retro SimpleText is back on the Macintosh!
 
 I whipped this app up entirely in SwiftUI and Swift as a fun weekend project, and it turned out to be a total blast. Want Fred to read your document out loud again with a bunch of other cool retro voices? Or maybe you’d just like to chill with your favorite (limited) selection of fonts?
